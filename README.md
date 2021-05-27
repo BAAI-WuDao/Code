@@ -40,6 +40,10 @@
   
   链接：
   
-* 
+* ProteinLM
+
+  将蛋白质语言模型移植到Megatron-LM框架下进行训练，更好的支持多机集群训练、模型并行和数据并行。
+  
+  链接：https://github.com/THUDM/ProteinLM
 
 
