@@ -8,39 +8,39 @@
 
   链接：https://github.com/THUDM/GLM 
 
-* CogView
+* **CogView**
   
   CogView是世界最大的中文多模态生成模型，参数量达到40亿
 
   链接：
 
 ### Algorithm
-* P-tuning
+* **P-tuning**
  
   新型的微调范式，历史上首次实现自回归模型在理解任务上超越自编码模型，并在知识探测和小样本学习的多个数据集上取得世界第一，提升高达20百分点。
 
   链接：
 
-* Inverse Prompting
+* **Inverse Prompting**
   
   新型的文本生成算法，显著改善了对语言模型生成结果的控制，在问答和诗歌生成任务中接近人类水平。
 
   链接：
 
 ### Tool
-* FastMoE
+* **FastMoE**
   
   高性能的MoE系统，万亿模型的核心技术，首个支持PyTorch框架的高性能MoE系统，相比PyTorch朴素实现速度提升47倍。
 
   链接：
 
-* TDS框架
+* **TDS框架**
 
   世界首创大规模预训练融合框架，能够缩短大模型近50%前期训练时间。
   
   链接：
   
-* ProteinLM
+* **ProteinLM**
 
   将蛋白质语言模型移植到Megatron-LM框架下进行训练，更好的支持多机集群训练、模型并行和数据并行。
   
