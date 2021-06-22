@@ -13,16 +13,6 @@
 * **[CPM2](https://github.com/TsinghuaAI/CPM)**
 
   基于Encoder-Decoder架构的中英双语大规模预训练模型，参数规模达到1000亿。
-  
-* **[BriVL双塔模型]()**
-
-  基于图文弱相关假设，全球首个中英文多模态双塔模型，参数规模达到53亿。
-  
-  链接：
-  
-* **[多模态多语言模型]()**
-
-  世界最大的多模态多语言预训练模型，参数规模达到10亿，涵盖中、英、法、德、捷克、日、韩7种语言。
 
 * **[ProtTrans](https://github.com/THUDM/ProteinLM)**
 
@@ -46,9 +36,9 @@
   
   高性能的MoE系统，万亿模型的核心技术，首个支持PyTorch框架的高性能MoE系统，相比PyTorch朴素实现速度提升47倍。
 
-* **[中文编码]()**
+* **[InfMoE](https://github.com/Harry-Chen/InfMoE)**
 
-  最高效、最抗噪中文预训练语言模型编码，解决生僻字、形近字、音近字等问题。
+  采用TensorRT实现框架，世界首创低资源大模型推理系统，单卡GPU可以进行千亿规模模型的推理。
 
 * **[3D加速框架TDS](https://github.com/TsinghuaAI/TDS)**
 
