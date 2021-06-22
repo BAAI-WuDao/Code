@@ -42,7 +42,7 @@
   新型的文本生成算法，显著改善了对语言模型生成结果的控制，在问答和诗歌生成任务中接近人类水平。
 
 ### Tool
-* **[FastMoE]()**
+* **[FastMoE](https://github.com/laekov/fastmoe)**
   
   高性能的MoE系统，万亿模型的核心技术，首个支持PyTorch框架的高性能MoE系统，相比PyTorch朴素实现速度提升47倍。
 
