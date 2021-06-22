@@ -39,6 +39,10 @@
 * **[InfMoE](https://github.com/Harry-Chen/InfMoE)**
 
   采用TensorRT实现框架，世界首创低资源大模型推理系统，单卡GPU可以进行千亿规模模型的推理。
+  
+* **[预训练知识继承](https://github.com/thunlp/Knowledge-Inheritance)
+
+  世界首创大规模预训练融合框架-缩短大模型近50%前期训练时间
 
 * **[3D加速框架TDS](https://github.com/TsinghuaAI/TDS)**
 
