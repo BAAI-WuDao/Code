@@ -27,7 +27,7 @@
   世界首创法律领域长文本中文预训练模型，参数规模达到1亿。
 
 ### Algorithm
-* **[P-tuning](https://github.com/BAAI-WuDao/CPM-1-Finetune)**
+* **[P-tuning](https://github.com/BAAI-WuDao/P-tuning)**
  
   新型的微调范式，历史上首次实现自回归模型在理解任务上超越自编码模型，并在知识探测和小样本学习的多个数据集上取得世界第一，提升高达20百分点。
 
