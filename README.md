@@ -47,8 +47,5 @@
 * **[3D加速框架TDS](https://github.com/TsinghuaAI/TDS)**
 
   世界首创大规模预训练融合框架，能够缩短大模型近50%前期训练时间。
-  
-* **[ProteinLM](https://github.com/THUDM/ProteinLM)**
 
-  将蛋白质语言模型移植到Megatron-LM框架下进行训练，更好的支持多机集群训练、模型并行和数据并行。
 
