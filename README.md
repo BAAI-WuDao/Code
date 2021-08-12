@@ -13,6 +13,10 @@
 * **[CPM](https://github.com/TsinghuaAI/CPM)**
 
   兼顾理解与生成能力的预训练语言模型系列，涵盖中文、中英双语多类模型，目前已开源26亿CPM-1、110亿和1980亿参数CPM-2模型。
+  
+* **[BriVl](https://github.com/BAAI-WuDao/BriVl)**
+
+  BriVL模型是首个中文通用图文多模态大规模预训练模型，在图文检索任务上有着优异的效果。
 
 * **[ProtTrans](https://github.com/THUDM/ProteinLM)**
 
