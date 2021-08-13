@@ -42,11 +42,11 @@
 ### Tool
 * **[FastMoE](https://github.com/BAAI-WuDao/fastmoe)**
   
-  高性能的MoE系统，万亿模型的核心技术，首个支持PyTorch框架的高性能MoE系统，相比PyTorch朴素实现速度提升47倍。
+  首个支持国产超算和GPU的高性能MoE系统，支持Switch，Gshard等复杂均衡策略。
 
 * **[InfMoE](https://github.com/BAAI-WuDao/InfMoE)**
 
-  采用TensorRT实现框架，世界首创低资源大模型推理系统，单卡GPU可以进行千亿规模模型的推理。
+  世界首创低资源大模型推理系统，单卡GPU可以进行千亿规模模型的推理。
   
 * **[预训练知识继承](https://github.com/BAAI-WuDao/Knowledge-Inheritance)**
 
@@ -54,6 +54,6 @@
 
 * **[3D加速框架TDS](https://github.com/BAAI-WuDao/TDS)**
 
-  世界首创大规模预训练融合框架，能够缩短大模型近50%前期训练时间。
+  DeepSpeed结合TDS插件，可同时支持数据/模型/流水并行、ZeRO和混合加速。
 
 
