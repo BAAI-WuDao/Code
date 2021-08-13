@@ -20,7 +20,7 @@
   
 * **[BriVl](https://github.com/BAAI-WuDao/BriVl)**
 
-  BriVL模型是首个中文通用图文多模态大规模预训练模型，在图文检索任务上有着优异的效果。
+  BriVL (Bridging Vision and Language Model) 是首个中文通用图文多模态大规模预训练模型。BriVL模型在图文检索任务上有着优异的效果，超过了同期其他常见的多模态预训练模型（例如UNITER、CLIP）。
 
 * **[ProtTrans](https://github.com/BAAI-WuDao/ProteinLM)**
 
