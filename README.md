@@ -26,7 +26,7 @@
 
   BriVL (Bridging Vision and Language Model) 是首个中文通用图文多模态大规模预训练模型。BriVL模型在图文检索任务上有着优异的效果，超过了同期其他常见的多模态预训练模型（例如UNITER、CLIP）。
 
-* **[ProtTeinLM](https://github.com/BAAI-WuDao/ProteinLM)**
+* **[ProteinLM](https://github.com/BAAI-WuDao/ProteinLM)**
 
   蛋白质序列预训练模型，目前已开源2亿和30亿参数规模的模型，能支持蛋白质二级结构预测、荧光性预测、接触预测、折叠稳定性预测和远缘同源性检测任务。相较于基线模型TAPE（3800万参数），我们的模型在下游任务上表现有所提升，尤其是在蛋白质折叠问题的接触预测问题上，模型较基线模型提高了16%。
   
